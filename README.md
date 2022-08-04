@@ -1,6 +1,6 @@
-﻿# Git Eessentials / Git For Everybody
+﻿# Git Essentials / Git For Everybody
 
 This is a course to teach you how to use everyday Git.
 
-Course folloewd by Trish
+Course folloewd by Trish Harris
 
